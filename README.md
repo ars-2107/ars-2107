@@ -1,5 +1,5 @@
 # 💫 About Me:
-🔭 **I’m currently working on:**  <br>Improving my skills and undertaking personal projects to get better at what I do.<br><br>👯 **I’m looking to collaborate on:**  <br>Projects that involve both FullStack development or Machine Learning – let's build something awesome together!<br><br>🌱 **I’m currently learning:**  <br>Reinforcement Learning, Supervised and Unsupervised Learning techniques.<br><br>💬 **Ask me about:**  <br>Anything related to MERN stack, Python, Java, or just hit me with any tech question you have!<br><br>⚡ **Fun fact:**  <br>I have a genuine love for math.
+🔭 **I’m currently working on:**  <br>Improving my skills and undertaking personal projects to get better at what I do.<br><br>👯 **I’m looking to collaborate on:**  <br>Projects that involve FullStack development or Machine Learning.<br><br>🌱 **I’m currently learning:**  <br>Reinforcement Learning, Supervised and Unsupervised Learning techniques.<br><br>💬 **Ask me about:**  <br>Anything related to MERN stack, Python, Java, or just hit me with any tech question you have!<br><br>⚡ **Fun fact:**  <br>I have a genuine love for math.
 
 
 ## 🌐 Socials:
