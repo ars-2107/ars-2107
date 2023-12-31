@@ -1,5 +1,5 @@
 # 💫 About Me:
-🔭 **I’m currently working on:**  <br>Improving my skills and working on personal projects to get better at what I do.<br><br>👯 **I’m looking to collaborate on:**  <br>Projects that involve both FullStack development or Machine Learning – let's build something awesome together!<br><br>🌱 **I’m currently learning:**  <br>Diving deep into Reinforcement Learning, Supervised and Unsupervised Learning techniques.<br><br>💬 **Ask me about:**  <br>Anything related to MERN stack, Python, Java, or just hit me with any tech question you have!<br><br>⚡ **Fun fact:**  <br>I have a genuine love for math.
+🔭 **I’m currently working on:**  <br>Improving my skills and undertaking personal projects to get better at what I do.<br><br>👯 **I’m looking to collaborate on:**  <br>Projects that involve both FullStack development or Machine Learning – let's build something awesome together!<br><br>🌱 **I’m currently learning:**  <br>Reinforcement Learning, Supervised and Unsupervised Learning techniques.<br><br>💬 **Ask me about:**  <br>Anything related to MERN stack, Python, Java, or just hit me with any tech question you have!<br><br>⚡ **Fun fact:**  <br>I have a genuine love for math.
 
 
 ## 🌐 Socials:
@@ -13,6 +13,7 @@
 ![](https://github-readme-streak-stats.herokuapp.com/?user=ars-2107&theme=midnight-purple&hide_border=true)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=ars-2107&theme=midnight-purple&hide_border=true&include_all_commits=true&count_private=true&layout=compact)
 
+
 ### ✍️ Quote of the day
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark)
 
@@ -23,7 +24,7 @@
 [![](https://visitcount.itsvg.in/api?id=ars-2107&icon=6&color=11)](https://visitcount.itsvg.in)
 
   ## 💰 You can help me by Donating
-  [![BuyMeACoffee](https://img.shields.io/badge/Buy%20Me%20a%20Coffee-ffdd00?style=for-the-badge&logo=buy-me-a-coffee&logoColor=black)](https://buymeacoffee.com/https://www.buymeacoffee.com/apoorvsharma) 
+  [![BuyMeACoffee](https://img.shields.io/badge/Buy%20Me%20a%20Coffee-ffdd00?style=for-the-badge&logo=buy-me-a-coffee&logoColor=black)](https://buymeacoffee.com/apoorvsharma) 
 
   
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
