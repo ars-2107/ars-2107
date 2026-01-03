@@ -1,3 +1,5 @@
+[![Banner](assets/header.png)](https://www.apoorvsharma.space)
+
 ## 💫 About Me
 🔭 **I’m currently working on**  <br>AI agents, mobile apps, and a few other products.<br><br>🌱 **I’m currently learning**  <br>scalability, distribution, machine learning, and quant.<br><br>🧩 **Interested in** <br>AI agents, productivity apps, and FOSS.<br><br>⚡ **Fun fact**  <br>I fix things that aren’t broken, even when I try not to.
 
